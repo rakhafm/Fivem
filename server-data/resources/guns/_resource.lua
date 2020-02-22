@@ -1,4 +1,4 @@
 client_scripts {
 	"functions.lua",
-	"senjata-c.lua"
+	"guns-c.lua"
 }
